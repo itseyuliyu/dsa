@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2491-smallest-even-multiple](https://github.com/itseyuliyu/dsa/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/itseyuliyu/dsa/tree/master/2556-convert-the-temperature) |
 ## String
 |  |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/itseyuliyu/dsa/tree/master/0812-rotate-string) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/itseyuliyu/dsa/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
