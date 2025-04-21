@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/itseyuliyu/dsa/tree/master/0009-palindrome-number) |
 | [2491-smallest-even-multiple](https://github.com/itseyuliyu/dsa/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/itseyuliyu/dsa/tree/master/2556-convert-the-temperature) |
 ## String
