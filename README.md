@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/itseyuliyu/dsa/tree/master/0125-valid-palindrome) |
 | [0812-rotate-string](https://github.com/itseyuliyu/dsa/tree/master/0812-rotate-string) |
 ## String Matching
 |  |
@@ -19,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/itseyuliyu/dsa/tree/master/2491-smallest-even-multiple) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/itseyuliyu/dsa/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
